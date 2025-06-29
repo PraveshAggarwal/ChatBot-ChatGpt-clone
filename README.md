@@ -1,2 +1,2 @@
 # ChatBot-ChatGpt-clone
-Develop a fully responsive ChatBot using React.Js and OpenAI API 
+Develop a fully responsive ChatBot using React.Js and OpenAI API. This is our own version of ChatGPT in React with the help of OpanAI API. This ChatGPT clone works same as the real ChatGPT app or website. In this Clone of ChatGPT we don't need to create an account. We can directly open this ChatGPT clone web app and search for our query. The ChatGPT clone will given the answer of all our queries using AI API. 
